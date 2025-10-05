@@ -44,6 +44,8 @@ Analyzes pip install commands to identify and **automatically solve**:
 
 ## 🚀 Quick Start
 
+Note: If scripts causes error, add your hugging face token in LLM.py...
+
 ### Basic Usage
 
 First, navigate to the project directory:
