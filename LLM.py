@@ -9,7 +9,8 @@ from requests.adapters import HTTPAdapter, Retry
 
 client = OpenAI(
     base_url="https://router.huggingface.co/v1",
-    api_key="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"  
+    api_key="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" # change this api key
+    #i would constantly commit to refresh the key as it get invalidated
 )
 
 
